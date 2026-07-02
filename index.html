@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Music Attestation Manifest</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #1d252c;
+        --muted: #5c6670;
+        --paper: #f8f7f3;
+        --panel: #ffffff;
+        --line: #d8d2c8;
+        --accent: #b63f35;
+        --accent-dark: #7f2823;
+        --code: #eef1f3;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.55;
+      }
+
+      main {
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 48px 20px 64px;
+      }
+
+      header {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 24px;
+        align-items: center;
+        padding-bottom: 32px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .seal {
+        width: 92px;
+        height: 92px;
+        border-radius: 50%;
+        background:
+          radial-gradient(circle at 32% 28%, rgba(255, 255, 255, 0.38), transparent 18%),
+          radial-gradient(circle at 50% 52%, var(--accent), var(--accent-dark));
+        box-shadow: 0 8px 18px rgba(80, 37, 32, 0.22), inset 0 -7px 12px rgba(50, 16, 12, 0.24);
+        display: grid;
+        place-items: center;
+        color: #fff6ef;
+        font-family: ui-serif, Georgia, serif;
+        font-size: 34px;
+        font-weight: 700;
+      }
+
+      h1,
+      h2 {
+        line-height: 1.15;
+        margin: 0;
+      }
+
+      h1 {
+        font-size: clamp(2rem, 4vw, 3.6rem);
+        letter-spacing: 0;
+      }
+
+      h2 {
+        margin-top: 42px;
+        font-size: 1.35rem;
+      }
+
+      p {
+        margin: 12px 0 0;
+      }
+
+      .lede {
+        max-width: 680px;
+        color: var(--muted);
+        font-size: 1.08rem;
+      }
+
+      code,
+      pre {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+      }
+
+      pre {
+        overflow-x: auto;
+        padding: 16px;
+        background: var(--code);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        font-size: 0.92rem;
+      }
+
+      .table-wrap {
+        overflow-x: auto;
+        margin-top: 16px;
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 760px;
+      }
+
+      th,
+      td {
+        padding: 12px 14px;
+        text-align: left;
+        border-bottom: 1px solid var(--line);
+        vertical-align: top;
+      }
+
+      th {
+        color: var(--muted);
+        font-size: 0.78rem;
+        letter-spacing: 0;
+        text-transform: uppercase;
+        background: #fbfaf7;
+      }
+
+      tr:last-child td {
+        border-bottom: 0;
+      }
+
+      td.hash,
+      td.signature {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+        font-size: 0.86rem;
+        word-break: break-all;
+      }
+
+      .status {
+        margin-top: 16px;
+        padding: 14px 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel);
+        color: var(--muted);
+      }
+
+      footer {
+        margin-top: 48px;
+        padding-top: 22px;
+        border-top: 1px solid var(--line);
+        color: var(--muted);
+        font-size: 0.94rem;
+      }
+
+      @media (max-width: 640px) {
+        main {
+          padding-top: 28px;
+        }
+
+        header {
+          grid-template-columns: 1fr;
+        }
+
+        .seal {
+          width: 76px;
+          height: 76px;
+          font-size: 28px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <div class="seal" aria-hidden="true">M</div>
+        <div>
+          <h1>Music Attestation Manifest</h1>
+          <p class="lede">This repo is a public wax seal for audio files. The audio stays wherever the artist keeps it. The manifest records a file hash, a signature, and a date so anyone can later check whether a copy matches the sealed version.</p>
+        </div>
+      </header>
+
+      <section aria-labelledby="how-it-works">
+        <h2 id="how-it-works">What This Proves</h2>
+        <p>Each seal is made from the SHA-256 hash of an audio file. That hash is signed with a private Ed25519 key. The private key is not published. The public key below lets anyone verify that a manifest entry was signed by the matching private key and that the file they have produces the same hash.</p>
+      </section>
+
+      <section aria-labelledby="public-key">
+        <h2 id="public-key">Public Key</h2>
+        <p>Verifiers use this key with <code>verify.mjs</code>. It is safe to share.</p>
+        <pre id="public-key-json">Loading public key...</pre>
+      </section>
+
+      <section aria-labelledby="manifest">
+        <h2 id="manifest">Manifest</h2>
+        <div id="manifest-status" class="status">Loading manifest...</div>
+        <div class="table-wrap" id="manifest-table-wrap" hidden>
+          <table>
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Filename</th>
+                <th>SHA-256</th>
+                <th>Signature</th>
+                <th>Public Key ID</th>
+                <th>Date</th>
+              </tr>
+            </thead>
+            <tbody id="manifest-rows"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section aria-labelledby="verify">
+        <h2 id="verify">Verify A File</h2>
+        <p>Clone this repo, put the audio file anywhere on your machine, then run:</p>
+        <pre>node verify.mjs /full/path/to/audio-file.wav</pre>
+        <p>A matching file prints <code>PASS</code> and the sealed date. A changed file, missing manifest entry, or invalid signature prints <code>FAIL</code>.</p>
+      </section>
+
+      <footer>
+        The manifest attests to file bytes, not authorship law, copyright ownership, or audio quality. If one byte changes, the hash changes.
+      </footer>
+    </main>
+
+    <script>
+      const publicKeyElement = document.getElementById('public-key-json');
+      const statusElement = document.getElementById('manifest-status');
+      const tableWrap = document.getElementById('manifest-table-wrap');
+      const rowsElement = document.getElementById('manifest-rows');
+
+      function cell(text, className) {
+        const td = document.createElement('td');
+        td.textContent = text || '';
+
+        if (className) {
+          td.className = className;
+        }
+
+        return td;
+      }
+
+      async function loadJson(path) {
+        const response = await fetch(path, { cache: 'no-store' });
+
+        if (!response.ok) {
+          throw new Error(`Could not load ${path}: ${response.status}`);
+        }
+
+        return response.json();
+      }
+
+      async function renderPublicKey() {
+        try {
+          const publicKey = await loadJson('manifest/public-key.json');
+          publicKeyElement.textContent = JSON.stringify(publicKey, null, 2);
+        } catch (error) {
+          publicKeyElement.textContent = error.message;
+        }
+      }
+
+      async function renderManifest() {
+        try {
+          const manifest = await loadJson('manifest/manifest.json');
+
+          if (!Array.isArray(manifest)) {
+            throw new Error('manifest/manifest.json is not a JSON array.');
+          }
+
+          if (manifest.length === 0) {
+            statusElement.textContent = 'No tracks are sealed yet.';
+            tableWrap.hidden = true;
+            return;
+          }
+
+          rowsElement.replaceChildren();
+
+          for (const entry of manifest) {
+            const tr = document.createElement('tr');
+            tr.append(
+              cell(entry.title),
+              cell(entry.filename),
+              cell(entry.sha256, 'hash'),
+              cell(entry.signature, 'signature'),
+              cell(entry.publicKeyId),
+              cell(entry.date),
+            );
+            rowsElement.appendChild(tr);
+          }
+
+          statusElement.hidden = true;
+          tableWrap.hidden = false;
+        } catch (error) {
+          statusElement.textContent = error.message;
+          tableWrap.hidden = true;
+        }
+      }
+
+      renderPublicKey();
+      renderManifest();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+# Secrets and private key material
+keys/
+*.key
+*.pem
+*.p8
+*.p12
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+*private*.jwk
+*private-key*
+*private_key*
+
+# Local environment and private context
+.env
+.env.*
+Context/
+
+# Generated macOS droplet apps
+Seal Track.app/
+Verify Track.app/
+.DS_Store

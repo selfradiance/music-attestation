@@ -1,0 +1,15 @@
+{
+  "id": "ed25519-faa143f9c12cd8a6",
+  "algorithm": "Ed25519",
+  "created": "2026-07-02T16:59:26.197Z",
+  "jwk": {
+    "crv": "Ed25519",
+    "x": "R6XUv8tfoG7_hfJ1Ho_WIPmu9ylIk9P0KyJ9XSGTm2s",
+    "kty": "OKP",
+    "kid": "ed25519-faa143f9c12cd8a6",
+    "alg": "EdDSA",
+    "key_ops": [
+      "verify"
+    ]
+  }
+}
