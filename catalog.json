@@ -1,0 +1,605 @@
+{
+  "artist": {
+    "name": "Zion Skank",
+    "url": "https://selfradiance.github.io/music-attestation/",
+    "attestation_key": "ed25519-faa143f9c12cd8a6"
+  },
+  "updated": "2026-07-06",
+  "tracks": [
+    {
+      "id": "zs-001",
+      "title": "Reggae Bluegrass Fusion Instrumental Mix 🎶 | Banjo Skank Loops & Deep Bass Sessions | Zion Skank",
+      "genre": [
+        "bluegrass",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "2465d8d5668e917397f11352cea3b03c8b64dbcc347e04631cea3b8d92c63481",
+      "sealed_date": "2026-07-02T17:27:54.989Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-002",
+      "title": "Reggae Meets 70's Rock Instrumental Mix | 1 Hour Immersive Roots Rock Session | Zion Skank Groove",
+      "genre": [
+        "roots rock",
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "3a9836af009495d12d10489844ffd29df2179657e10b98890d5c353bc9e82ecd",
+      "sealed_date": "2026-07-02T18:33:48.322Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-003",
+      "title": "Reggae Fusion Metal Instrumental Loop | 1 Hour Dub Metal Vibes Mix | Zion Skank Groove",
+      "genre": [
+        "dub",
+        "metal",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "e96599ad91343e9a980a5131fe4facac0464c58b41c51864dc23b1e24562666b",
+      "sealed_date": "2026-07-02T18:53:14.442Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-004",
+      "title": "Reggae Fusion Jazz Instrumental Mix Tape | 1 Hour Dub Jazz Piano Vibes Loop | Zion Skank",
+      "genre": [
+        "dub",
+        "jazz",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "f30a8cdba85a1834e06a211976389835f5b0b1d8bfc761bf8bbe28245618dd69",
+      "sealed_date": "2026-07-02T18:56:35.174Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-005",
+      "title": "Reggae Jam Rock Instrumental Mix Loop | Reggae Fusion | Rasta Rhythm | Zion Skank Groove",
+      "genre": [
+        "jam rock",
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "b601b44513cc258a243eb0b1731174287a273b061dae99e6e334cec8ad82ea07",
+      "sealed_date": "2026-07-02T19:33:14.520Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-006",
+      "title": "Reggae House Fusion Instrumental Mix | 2 Hour Deep Progressive Chill Loop | Zion Skank Groove",
+      "genre": [
+        "house",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "ed2270d66e66ed4abc858312b08f56dc3a39e4b5c90e9f40c042a3dfeaecd380",
+      "sealed_date": "2026-07-02T19:34:49.099Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-007",
+      "title": "Vintage Fuzz Reggae Fusion Instrumental Mix | 1 Hour 60s Garage Rock Groove Loop | Zion Skank Groove",
+      "genre": [
+        "garage rock",
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "3cc16891cae835ff920e21129d80cb4fe7b811ec2cb08f4e3b8282b652289b68",
+      "sealed_date": "2026-07-02T19:36:12.152Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-008",
+      "title": "Classical Bach Reggae Fusion Instrumental Mix | Baroque Counterpoint Dub Loop | Zion Skank Groove",
+      "genre": [
+        "classical",
+        "baroque",
+        "dub",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "400a9cde93106b50873ce2e7062764daca231aa2205882c36025382c33016834",
+      "sealed_date": "2026-07-02T19:38:53.578Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-009",
+      "title": "Reggae Grunge Fusion Instrumental Mix | 1 Hour Sludgy Dark Groove Loop | Zion Skank",
+      "genre": [
+        "grunge",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "96a987d55d00287101aa34e4276d3cfc12f9204fefa7117886ebd0f43ae0f0eb",
+      "sealed_date": "2026-07-02T19:39:59.716Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-010",
+      "title": "Reggae Trap Drill Fusion Instrumental Mix | 1 Hour Heavyweight Sub Bass Dark Moody Loop | Zion Skank",
+      "genre": [
+        "trap",
+        "drill",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "2963f0e4b08f7f27dea6c4587e51352a059bc0853e9446fb65fef3a024712199",
+      "sealed_date": "2026-07-02T19:41:01.764Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-011",
+      "title": "Reggae Funk Rock Fusion Instrumental Mix | 1 Hour Purple Lit Groove Session | Zion Skank",
+      "genre": [
+        "funk",
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "1fcb1e34ccf01953e67686d37cec9c75a11c0461f2bddd2dddf904a552bf2c7b",
+      "sealed_date": "2026-07-02T19:42:31.094Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-012",
+      "title": "Reggae Fusion Neo Soul Lofi Instrumental Mix | 1 Hour Chill Riddim Study Loop | Zion Skank Groove",
+      "genre": [
+        "neo soul",
+        "lofi",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "f162682f5474e8dc202c3a526ed7fdb82d1c9f7b93b06d3673fdb4ac96c309fd",
+      "sealed_date": "2026-07-02T19:43:37.909Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-013",
+      "title": "Reggae Desert Rock Fusion | 1 Hour Dub Heavy Instrumental Groove Mix | Zion Skank Groove",
+      "genre": [
+        "desert rock",
+        "dub",
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "bb52b5f6bf593faf55b8567a421a81ec9db23e6a88217ee1d798578a9d044eaa",
+      "sealed_date": "2026-07-02T19:44:40.426Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-014",
+      "title": "Appalachian Dub Reggae Instrumental Fusion Mix | Hour Dusty Bluegrass Roots Vibe | Zion Skank Groove",
+      "genre": [
+        "bluegrass",
+        "appalachian",
+        "dub",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "97675d12b535164e0e92e8b72b6a0c206e78daec94e3626dbbb16bde097b33a6",
+      "sealed_date": "2026-07-02T19:46:16.011Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-015",
+      "title": "Reggae Gypsy Jazz Instrumental Fusion Mix | 1 Hour Acoustic Hot Club Guitar One Drop | Zion Skank",
+      "genre": [
+        "gypsy jazz",
+        "jazz",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "acb5b41d8aeba7a63dfe2ceea69fd8428c9211f44b2681436f938e9b21c1c9f6",
+      "sealed_date": "2026-07-02T19:49:23.017Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-016",
+      "title": "Reggae Fusion Hip Hop Boom Bap Instrumental 1 Hour Mix | Urban Roots Groove | Zion Skank",
+      "genre": [
+        "hip hop",
+        "boom bap",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "c3dafdcc944ce13d2d5058b6efbc098a5c9403dba4f4bdbd965dad46c6aa2e59",
+      "sealed_date": "2026-07-02T19:51:09.465Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-017",
+      "title": "Reggae Fusion Cool Jazz Trumpet | 1 Hour Muted Horn Fusion Instrumental Mix | Zion Skank Groove",
+      "genre": [
+        "cool jazz",
+        "jazz",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "9e089af5b94a7480cab62e3beddfb321842846078075a8cd27970ae54c63cb8d",
+      "sealed_date": "2026-07-02T19:52:49.193Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-018",
+      "title": "Delta Blues Reggae Fusion | 1 Hour Blues Guitar And Harmonica Instrumental Mix | Zion Skank",
+      "genre": [
+        "delta blues",
+        "blues",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "a67aff25f63cb85d220427c1bcbd761a23be685b2c6964253432dfa600588dc3",
+      "sealed_date": "2026-07-02T19:54:16.691Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-019",
+      "title": "Post Punk Revival Reggae Rock Fusion Instrumental Mix | Angular Modern Indie Rock Dub | Zion Skank",
+      "genre": [
+        "post punk",
+        "dub",
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "a52cdee61504dd2508bf53122ca425631bd9c9eac79862098eb752079f5a1136",
+      "sealed_date": "2026-07-02T19:55:27.514Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-020",
+      "title": "Reggae Rock Fusion Instrumental Mix | High-Gain Guitar & Heavy Bass Loop | Zion Skank Groove",
+      "genre": [
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "632821c1ecbadea8bd70d6e1b84c5f7bc01411a0b006984d1aa37869749c8e2d",
+      "sealed_date": "2026-07-02T19:56:46.893Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-021",
+      "title": "Reggae Ambient Dub Fusion Instrumental Mix | Deep Hypnotic One Drop Space Hour | Zion Skank Groove",
+      "genre": [
+        "ambient dub",
+        "dub",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "5bd96222bc761ef1c83f8e9306e128efd5fc78230a10d6daa32ad81b3796dfb2",
+      "sealed_date": "2026-07-02T19:58:24.039Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-022",
+      "title": "Reggae Meets Space Rock | 1 Hour Dub Cosmic Guitar | Atmospheric Rock Fusion | Zion Skank",
+      "genre": [
+        "space rock",
+        "dub",
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "73cc9fd55567157c87504d17f0ab8bdb1fde18070bbc53dd5189509183f3ec1a",
+      "sealed_date": "2026-07-02T19:59:42.333Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-023",
+      "title": "90s Grunge Rock Reggae Fusion Instrumental Mix | 1 Hour Gritty Alternative Dub | Zion Skank Groove",
+      "genre": [
+        "dub",
+        "grunge",
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "371320d758ead17cefa35402aa44fe9e889006005cdf55c5c44df55559f1c14c",
+      "sealed_date": "2026-07-02T20:01:33.009Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-024",
+      "title": "Reggae Delta Blues Fusion Instrumental | Single | Blues Guitar Harmonica Groove | Zion Skank",
+      "genre": [
+        "delta blues",
+        "blues",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "6749421b75f44ab8d1305a9ceefde255dc2a2cd597fd014a83040cffb86de21e",
+      "sealed_date": "2026-07-02T20:02:57.788Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-025",
+      "title": "Reggae Hip Hop Instrumental Fusion | Single | Heavy Bass One Drop Groove | Zion Skank | Dance Moves",
+      "genre": [
+        "hip hop",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "310a91d4704b13513497f01e352e8a09d678845d7b755642628b2e1f1b492721",
+      "sealed_date": "2026-07-02T20:04:28.727Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-026",
+      "title": "Reggae Spaghetti Western Fusion  | 1 Hour Desert Noir Instrumental Mix | Zion Skank Groove",
+      "genre": [
+        "spaghetti western",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "3abb036bea8f2046719e2b271a8b328505393ed1fed60bbf80b77f5f083449c2",
+      "sealed_date": "2026-07-02T20:05:31.392Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-027",
+      "title": "Reggae Cool Jazz Trumpet | Muted Horn Fusion Instrumental | Single Edition | Zion Skank",
+      "genre": [
+        "cool jazz",
+        "jazz",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "9d4be6242dd3d3e0f31c9b421221ebcdba4524ceb0ec64ef487b96c3e38c7da6",
+      "sealed_date": "2026-07-02T20:06:30.663Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-028",
+      "title": "Reggae Spaghetti Western Fusion Single | Country Desert Noir Instrumental | Zion Skank",
+      "genre": [
+        "spaghetti western",
+        "country",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "9d87b9b096efc622b553f623f7f3eacc489f5c966fee31d31ceb313621cf39a8",
+      "sealed_date": "2026-07-02T20:07:53.883Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-029",
+      "title": "Reggae Trap Drill Fusion Instrumental | Single | Heavy Deep Sub Bass Bass line | Zion Skank Groove",
+      "genre": [
+        "trap",
+        "drill",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "2acb11ca00f1e79c7b96e09ae80ab0f6e805b278aa5b5f579143e42d02d2aef4",
+      "sealed_date": "2026-07-02T20:09:06.900Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-030",
+      "title": "Reggae Hip Hop Fusion Instrumental Single | Urban Deep Bass | Zion Skank 4K",
+      "genre": [
+        "hip hop",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "55286a20ab5baaf5942043b681bd8f5b474f3e5c460c0a5787aaaae3ae9e4552",
+      "sealed_date": "2026-07-02T20:10:01.597Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-031",
+      "title": "Post Punk Revival Reggae Rock Instrumental Single | Angular Modern Indie Rock Dub | Zion Skank",
+      "genre": [
+        "post punk",
+        "dub",
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "de9fdef6c0eebcc42946ef9c97e55ed8646e1f07c0c1e4ed05552443bb9bb7b0",
+      "sealed_date": "2026-07-02T20:11:08.893Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-032",
+      "title": "1980s New Wave Reggae Rock Fusion | 1 Hour Eccentric Kinetic Post Punk Mix | Zion Skank Groove",
+      "genre": [
+        "new wave",
+        "post punk",
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "e84a2f6ee3e0cd1dfdf94e089e5aba204ee8d58db8708994cd16496bda362b86",
+      "sealed_date": "2026-07-04T18:25:16.185Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-033",
+      "title": "1980s New Wave Reggae Rock Fusion | Post Punk Dub Skank Single | Zion Skank Groove",
+      "genre": [
+        "new wave",
+        "post punk",
+        "dub",
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "32d4849f254af86ea8bd08220f3c0704f1d793b79d1636a2872757be6db49ced",
+      "sealed_date": "2026-07-04T18:26:53.250Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    }
+  ]
+}
