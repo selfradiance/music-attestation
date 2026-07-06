@@ -620,6 +620,26 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-035",
+      "title": "Reggae Hand-Drum Percussion Instrumental Mix | Melodic Nyabinghi Conga Fusion Loop | Zion Skank Groove",
+      "genre": [
+        "hand-drum",
+        "percussion",
+        "nyabinghi",
+        "conga",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "6b4adeab2d823e3c5aa4589ae091ea6440b37a7c18436c2c7f5fe9cc1407eec6",
+      "sealed_date": "2026-07-06T21:25:10.351Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
