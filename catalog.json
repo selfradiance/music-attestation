@@ -600,6 +600,26 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-034",
+      "title": "Reggae Funk Rock Instrumental Mix | NOLA | 1 Hour Syncopated Roots And New Orleans Groove | Zion Skank",
+      "genre": [
+        "new orleans",
+        "funk rock",
+        "nola",
+        "funk",
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "0c10ce30756fd04c2377dc22890921d40668690aab894eb6ef1eaa94858f91f2",
+      "sealed_date": "2026-07-06T16:48:31.089Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
