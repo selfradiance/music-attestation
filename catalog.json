@@ -4,7 +4,7 @@
     "url": "https://selfradiance.github.io/music-attestation/",
     "attestation_key": "ed25519-faa143f9c12cd8a6"
   },
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "tracks": [
     {
       "id": "zs-001",
@@ -637,6 +637,25 @@
       "youtube_url": "",
       "sha256": "6b4adeab2d823e3c5aa4589ae091ea6440b37a7c18436c2c7f5fe9cc1407eec6",
       "sealed_date": "2026-07-06T21:25:10.351Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-036",
+      "title": "Reggae Rock Didgeridoo Instrumental Mix | 1 Hour Australian Outback Dub Session | Zion Skank Groove",
+      "genre": [
+        "didgeridoo",
+        "australian outback",
+        "dub",
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "0b8d5b5888dddb6686a514309365b6f1473402b83d7da14423cec6dd1a86d6bc",
+      "sealed_date": "2026-07-07T16:39:12.399Z",
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
