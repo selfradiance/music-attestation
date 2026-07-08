@@ -677,6 +677,23 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-038",
+      "title": "Swampy Hammond Reggae Rock Instrumental Mix | 1 Hour Golden Organ Groove Loop | Zion Skank Groove",
+      "genre": [
+        "hammond organ",
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "5170e8553aacf2e83d1730475dff99632b7b6cedc8d17aa1c3f60fe7b1dd2a13",
+      "sealed_date": "2026-07-08T20:40:31.040Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
