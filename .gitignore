@@ -17,6 +17,10 @@ id_ed25519
 .env.*
 Context/
 
+# Local Codex workflow prompts
+seal prompt for codex.txt
+publish to youtube prompt for codex.txt
+
 # Generated macOS droplet apps
 Seal Track.app/
 Verify Track.app/
