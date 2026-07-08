@@ -4,7 +4,7 @@
     "url": "https://selfradiance.github.io/music-attestation/",
     "attestation_key": "ed25519-faa143f9c12cd8a6"
   },
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "tracks": [
     {
       "id": "zs-001",
@@ -656,6 +656,24 @@
       "youtube_url": "",
       "sha256": "0b8d5b5888dddb6686a514309365b6f1473402b83d7da14423cec6dd1a86d6bc",
       "sealed_date": "2026-07-07T16:39:12.399Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-037",
+      "title": "Roots Reggae G-Funk Instrumental Mix | 1 Hour Smooth Lazy Rock Groove | Zion Skank",
+      "genre": [
+        "roots reggae",
+        "g-funk",
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "d762e18ce03796b195475cd3d74ee2746ba67f2aaa75ebc099a32f389edea262",
+      "sealed_date": "2026-07-08T14:54:55.878Z",
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
