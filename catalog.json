@@ -4,7 +4,7 @@
     "url": "https://selfradiance.github.io/music-attestation/",
     "attestation_key": "ed25519-faa143f9c12cd8a6"
   },
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "tracks": [
     {
       "id": "zs-001",
@@ -691,6 +691,23 @@
       "youtube_url": "",
       "sha256": "5170e8553aacf2e83d1730475dff99632b7b6cedc8d17aa1c3f60fe7b1dd2a13",
       "sealed_date": "2026-07-08T20:40:31.040Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-039",
+      "title": "Reggae Southern Rock Instrumental Mix | 1 Hour Crying Slide Guitar Groove | Zion Skank",
+      "genre": [
+        "southern rock",
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "94fc64d8bbe2e5be31fcd5899ff26a1318c99d7a19b6eee6f37fd56673b2dd4a",
+      "sealed_date": "2026-07-09T16:55:00.542Z",
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
