@@ -711,6 +711,24 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-040",
+      "title": "Reggae Glam Rock Instrumental Mix | 1 Hour Deep Dub Theatrical Loop | Zion Skank Groove",
+      "genre": [
+        "glam rock",
+        "dub",
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "0e3191c3b98918b9e96a9cbc89e2ac37714cc98576c792d87dac7e81897e6dc4",
+      "sealed_date": "2026-07-13T16:02:21.935Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
