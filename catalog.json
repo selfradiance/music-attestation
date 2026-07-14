@@ -729,6 +729,24 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-041",
+      "title": "Deep Dub Reggae Krautrock Instrumental Mix | 1 Hour Hypnotic Ancient Futuristic Motorik | Zion Skank",
+      "genre": [
+        "krautrock",
+        "motorik",
+        "dub",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "82cb83ba797041a85ce9c7366f1e3477526f3edeaee393a0fed704dbc6648eaf",
+      "sealed_date": "2026-07-14T14:49:04.713Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
