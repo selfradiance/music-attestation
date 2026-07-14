@@ -747,6 +747,24 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-042",
+      "title": "Reggae Math Rock Instrumental Mix | 1 Hour Cerebral One-Drop Fusion Loop | Zion Skank Groove",
+      "genre": [
+        "math rock",
+        "rock",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "d2ce2340ffd2555ea8ca217a31ad0a7e457464e6d18b4cb3f75c976217778a01",
+      "sealed_date": "2026-07-14T23:15:38.698Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
