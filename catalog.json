@@ -765,6 +765,25 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-043",
+      "title": "British Invasion Mod Rock Meets Roots Reggae | 1 Hour Groovy Instrumental Mix | Zion Skank Groove",
+      "genre": [
+        "british invasion",
+        "mod rock",
+        "roots reggae",
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "980787c54df1402d894b4e3e4557d82792fb422393492daf77bfe2d98d2b21c5",
+      "sealed_date": "2026-07-15T16:44:54.032Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
