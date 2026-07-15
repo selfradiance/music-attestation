@@ -784,6 +784,23 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-044",
+      "title": "Reggae Meets Psychedelic Rock | 1 Hour Hypnotic Dub-Psych Instrumental Mix | Zion Skank Groove",
+      "genre": [
+        "dub",
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "3ecb5626e928f1a796ff634377cc646244a862727b4662cf3f64075d482025e4",
+      "sealed_date": "2026-07-15T18:23:01.567Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
