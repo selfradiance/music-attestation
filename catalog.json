@@ -801,6 +801,23 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-045",
+      "title": "Reggae Electro Funk  | 35 Minute Hypnotic Dub-Funk 80's Instrumental Mix | Zion Skank Groove",
+      "genre": [
+        "funk",
+        "dub",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "fdd1e3b0e50035912f705203f179d38b91330badc53e114f1e1c478bc46b47b5",
+      "sealed_date": "2026-07-16T13:52:39.800Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
