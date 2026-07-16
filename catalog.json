@@ -818,6 +818,22 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-046",
+      "title": "Dread Doom Reggae Fusion | Heavy Riff One Drop Instrumental | 35 Minute Heavy Roots Mix | Zion Skank",
+      "genre": [
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "c8952eb5dd24c1b3c41d049b0855a05d8a044d49c0e6e0b35dee8eec31e80a4c",
+      "sealed_date": "2026-07-16T19:08:50.478Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
