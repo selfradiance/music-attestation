@@ -834,6 +834,22 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-047",
+      "title": "Heavy Psych Dub | Temple Ritual One-Drop | 32 Minute Dread Doom Mix",
+      "genre": [
+        "dub",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "d6f239dfcf6b96474e498f64ce8df4969dd56fbac80217fe696e5c166e415cb5",
+      "sealed_date": "2026-07-17T14:44:43.081Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
