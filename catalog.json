@@ -850,6 +850,22 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-048",
+      "title": "Reggae Jam Band Fusion | Groovy One-Drop Guitar Instrumental | 27 Minute Mix",
+      "genre": [
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "f7e7e38f1244a7789f449ba61e8805740e3483b8e38b90c83454f41fac54b10f",
+      "sealed_date": "2026-07-17T18:53:34.173Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
