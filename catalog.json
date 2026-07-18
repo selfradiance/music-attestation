@@ -866,6 +866,22 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-049",
+      "title": "Classic Rock  Reggae Pocket | Warm Groovy One-Drop Instrumental | 18 Minute Mix",
+      "genre": [
+        "rock",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "3f5b35e1348dbb9364e945f7889dc62a03ae2a9b506110b3a2856d8f1d6cffbe",
+      "sealed_date": "2026-07-18T20:14:43.819Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
