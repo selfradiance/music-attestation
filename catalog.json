@@ -882,6 +882,24 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-050",
+      "title": "Reggae Electric Blues Instrumental Mix | 33 Minutes Swampy Dub Fusion | Zion Skank Groove",
+      "genre": [
+        "blues",
+        "dub",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "4259338da499ab0dade857944e63e3621ca33eb3f81b532e830567e9ed3a9195",
+      "sealed_date": "2026-07-20T15:23:32.664Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
