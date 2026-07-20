@@ -900,6 +900,23 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-051",
+      "title": "Reggae Deep Blues Instrumental Mix | 33 Minutes Sweet Soulful Fusion | Zion Skank Groove",
+      "genre": [
+        "blues",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "6bfa9da1537dc8d02c4cdbf17f6ee1b9fe2616625d1510ffbb4501cd2bc65c5c",
+      "sealed_date": "2026-07-20T18:22:46.154Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
