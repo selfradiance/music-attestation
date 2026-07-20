@@ -917,6 +917,24 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-052",
+      "title": "Reggae Hip-Hop Skank Mix | 30 Minutes Dark Dub Cinematic Fusion | Zion Skank Groove",
+      "genre": [
+        "hip hop",
+        "dub",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "efb175e06c0fe562963afdbd4f7932326173803f644c4a129b62c725ce110022",
+      "sealed_date": "2026-07-20T20:55:32.932Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
