@@ -935,6 +935,23 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-053",
+      "title": "Roots Reggae Afrobeats Fusion Instrumental Mix | 1 Hour Sunny Tropical Groove | Zion Skank",
+      "genre": [
+        "roots reggae",
+        "fusion",
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "32a6028d54b92037d8919eae3232cbe01dfb58e6503b354eb60ed21ebb31d8c9",
+      "sealed_date": "2026-07-21T16:43:01.927Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
