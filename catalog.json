@@ -952,6 +952,81 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-054",
+      "title": "Rise Up",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "05613f9e8ad45468120ff372ef14808f2cb0c708d600cfb69db94401fb40c8aa",
+      "sealed_date": "2026-08-27T15:42:15.117Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-055",
+      "title": "Shake It Loose",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "373f4ecb6150633ad8921f457d30b465f40c6f68d9fcdfe0628f01de7a31ac70",
+      "sealed_date": "2026-08-27T15:43:48.547Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-056",
+      "title": "Pass It On",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "d5e558fba3e3a7609038f567521457fac741149e0410c193cb888799cad0ef2b",
+      "sealed_date": "2026-08-27T15:44:27.687Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-057",
+      "title": "Room To Roam",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "7313abdadf652d383e7d1573725651081536f981590bb790034dfe348bf4b145",
+      "sealed_date": "2026-08-27T15:44:54.562Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-058",
+      "title": "Peace Up",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "4abd450381cb8ba596b0bbdb0800e01d4848f564c4bcfd55497149907a3c52b8",
+      "sealed_date": "2026-08-27T15:45:21.002Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }

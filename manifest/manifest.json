@@ -422,5 +422,45 @@
     "signature": "6sL0740kdwAaBoEgIJrqAIrxLg4oRiUzdAYBEQ8H0LGArhbYBWYyhpef2JtLenPZrqcVqywMzF/Lmdr82RtKCA==",
     "publicKeyId": "ed25519-faa143f9c12cd8a6",
     "date": "2026-07-21T16:43:01.927Z"
+  },
+  {
+    "title": "Rise Up",
+    "filename": "Rise Up.wav",
+    "sha256": "05613f9e8ad45468120ff372ef14808f2cb0c708d600cfb69db94401fb40c8aa",
+    "signature": "TkkK9IIvii+yFJcziypyu+DYzsyIQdfHtEhKE4a9cyQHxR7nhfeswn5QOYcq2vOFRJq6q3/U0AgnFKX6w/aGBQ==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-08-27T15:42:15.117Z"
+  },
+  {
+    "title": "Shake It Loose",
+    "filename": "Shake It Loose.wav",
+    "sha256": "373f4ecb6150633ad8921f457d30b465f40c6f68d9fcdfe0628f01de7a31ac70",
+    "signature": "Dr1kEXJx1P/iyjVr75LQQNqNIcvqjPX0yMYdO/pcHe+r+9RIVxVdpcdohlCMmhm02Gzbvy5ZHUPVtR/hTtp7DQ==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-08-27T15:43:48.547Z"
+  },
+  {
+    "title": "Pass It On",
+    "filename": "Pass It On.wav",
+    "sha256": "d5e558fba3e3a7609038f567521457fac741149e0410c193cb888799cad0ef2b",
+    "signature": "45dzKDq0TSnhYa7s/xYfY7E4jZLer4Ty+I6Bm4lBYTSDbCqGF8Zb+mO8M2wN/ZG+os3AFHL1L5tqhpZBccWOAw==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-08-27T15:44:27.687Z"
+  },
+  {
+    "title": "Room To Roam",
+    "filename": "Room To Roam.wav",
+    "sha256": "7313abdadf652d383e7d1573725651081536f981590bb790034dfe348bf4b145",
+    "signature": "fGZEXhI1vJZXoLdphfRcTO1rndcWx0mua4F1djuowrPNt/kMxQWJbwRQxyo1wuJyVhiSewqphFhgWJuT/rNaDw==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-08-27T15:44:54.562Z"
+  },
+  {
+    "title": "Peace Up",
+    "filename": "Peace Up.wav",
+    "sha256": "4abd450381cb8ba596b0bbdb0800e01d4848f564c4bcfd55497149907a3c52b8",
+    "signature": "pCWWfrn+EyrRIL+ZiyLf251eQVvFazM1Hw67CKRqK5erziqhsJ5R53SiUFkW3Vy7AQ9cjMW+hO2oxHjoJ3n8Cw==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-08-27T15:45:21.002Z"
   }
 ]
