@@ -959,9 +959,9 @@
       "genre": [
         "reggae"
       ],
-      "release_date": "",
+      "release_date": "2026-08-27",
       "duration_seconds": 0,
-      "youtube_url": "",
+      "youtube_url": "https://youtu.be/BpBAIo-MU3Y",
       "sha256": "05613f9e8ad45468120ff372ef14808f2cb0c708d600cfb69db94401fb40c8aa",
       "sealed_date": "2026-08-27T15:42:15.117Z",
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
