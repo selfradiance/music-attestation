@@ -1027,6 +1027,66 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-059",
+      "title": "I And I",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "2d850141f60021e7b2b3f64a619f4ea289553952944dc3a271eff2531de5b7ea",
+      "sealed_date": "2026-09-01T23:09:34.104Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-060",
+      "title": "What Is",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "0c8504b9daeb7a0883184c399f20865dfe6352445418767d3e0f305a6df8ad01",
+      "sealed_date": "2026-09-01T23:11:27.168Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-061",
+      "title": "Let Go",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "377831152351c785dedfb06afa38cae39989771fe451bb5883a0801d83236015",
+      "sealed_date": "2026-09-01T23:11:50.249Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-062",
+      "title": "Enjoy Being",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "4dff168ff7714f03b50a9aaf29653dde395df427e3aeafd979a15214e4fe4c12",
+      "sealed_date": "2026-09-01T23:12:11.970Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }

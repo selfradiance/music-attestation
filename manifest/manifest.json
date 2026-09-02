@@ -462,5 +462,85 @@
     "signature": "pCWWfrn+EyrRIL+ZiyLf251eQVvFazM1Hw67CKRqK5erziqhsJ5R53SiUFkW3Vy7AQ9cjMW+hO2oxHjoJ3n8Cw==",
     "publicKeyId": "ed25519-faa143f9c12cd8a6",
     "date": "2026-08-27T15:45:21.002Z"
+  },
+  {
+    "title": "Human_Design_Prediction_2028_SEALED (August 27, 2026)",
+    "filename": "Human_Design_Prediction_2028_SEALED.md",
+    "sha256": "249fd88bc87749215f5df40b2e7ff457da9cf02c5d15ee6ff313501272602cff",
+    "signature": "odWGK4uUjZIhKiPXVwMldehztmpK0ycMxWL9T0Dn9mL+IhNR1NnmyhLYqnVwWpMCSi24pLY4BEpg31IwoFiMAg==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-08-27T18:38:22.810Z"
+  },
+  {
+    "title": "Rise Up",
+    "filename": "Rise Up.wav",
+    "sha256": "8430f2c443d3e2f3554200ac73a4bce2d23681d3df3523bc3d7d407355433e47",
+    "signature": "6cJCDRQ+H/Sc/TZ24sFX5rJXxtqrsP75b7ahhV52kz3OYljgMnxzF3eJWu8n2qCNAiI3BJQer0B5nxS/P887AQ==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-01T23:08:55.277Z"
+  },
+  {
+    "title": "I And I",
+    "filename": "I And I.wav",
+    "sha256": "2d850141f60021e7b2b3f64a619f4ea289553952944dc3a271eff2531de5b7ea",
+    "signature": "yhdrFyutRr9agmLNgwbLA8vHaZqDSfKAGmZlcvyt1ZRLyP85rr8g9aTESzb2HRR+qYRNI5+ourgLw1y7oIYECw==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-01T23:09:34.104Z"
+  },
+  {
+    "title": "Pass It On",
+    "filename": "Pass It On.wav",
+    "sha256": "d5e558fba3e3a7609038f567521457fac741149e0410c193cb888799cad0ef2b",
+    "signature": "45dzKDq0TSnhYa7s/xYfY7E4jZLer4Ty+I6Bm4lBYTSDbCqGF8Zb+mO8M2wN/ZG+os3AFHL1L5tqhpZBccWOAw==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-01T23:10:11.143Z"
+  },
+  {
+    "title": "Peace Up",
+    "filename": "Peace Up.wav",
+    "sha256": "4abd450381cb8ba596b0bbdb0800e01d4848f564c4bcfd55497149907a3c52b8",
+    "signature": "pCWWfrn+EyrRIL+ZiyLf251eQVvFazM1Hw67CKRqK5erziqhsJ5R53SiUFkW3Vy7AQ9cjMW+hO2oxHjoJ3n8Cw==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-01T23:10:29.056Z"
+  },
+  {
+    "title": "Room To Roam",
+    "filename": "Room To Roam.wav",
+    "sha256": "7313abdadf652d383e7d1573725651081536f981590bb790034dfe348bf4b145",
+    "signature": "fGZEXhI1vJZXoLdphfRcTO1rndcWx0mua4F1djuowrPNt/kMxQWJbwRQxyo1wuJyVhiSewqphFhgWJuT/rNaDw==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-01T23:10:46.183Z"
+  },
+  {
+    "title": "Shake It Loose",
+    "filename": "Shake It Loose.wav",
+    "sha256": "373f4ecb6150633ad8921f457d30b465f40c6f68d9fcdfe0628f01de7a31ac70",
+    "signature": "Dr1kEXJx1P/iyjVr75LQQNqNIcvqjPX0yMYdO/pcHe+r+9RIVxVdpcdohlCMmhm02Gzbvy5ZHUPVtR/hTtp7DQ==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-01T23:11:03.216Z"
+  },
+  {
+    "title": "What Is",
+    "filename": "What Is.wav",
+    "sha256": "0c8504b9daeb7a0883184c399f20865dfe6352445418767d3e0f305a6df8ad01",
+    "signature": "Sm7c+Gg0b47V4h8qraOhNynN/jGte8GDpayQVhylaJ+93XtKOCjw2jZiiY05uSOtE51daD3GMt8wskSnM2I4Bg==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-01T23:11:27.168Z"
+  },
+  {
+    "title": "Let Go",
+    "filename": "Let Go.wav",
+    "sha256": "377831152351c785dedfb06afa38cae39989771fe451bb5883a0801d83236015",
+    "signature": "Y8ZfomAc89qxTP/8mYqvEs734CfibqhRg+KVI/z7dGwCW5eqECXxNqfebPGCOK4f5tyOr80vrDMF7evmmnE+Dw==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-01T23:11:50.249Z"
+  },
+  {
+    "title": "Enjoy Being",
+    "filename": "Enjoy Being.wav",
+    "sha256": "4dff168ff7714f03b50a9aaf29653dde395df427e3aeafd979a15214e4fe4c12",
+    "signature": "vnr7BRPCvTTTI8bd+WpPbMf0PHIM1j9/OlNZKrNsLDZjjMp7pIQ0B+WESSRsidLBuBCTxnk5XeInYWvJjkqVDg==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-01T23:12:11.970Z"
   }
 ]
