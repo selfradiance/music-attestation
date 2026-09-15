@@ -1,0 +1,15 @@
+[
+  {
+    "original": {
+      "title": "Ina Mi ",
+      "sha256": "e1b89552591289bea0a3d72ca9a1e2860abe6f2f375c82e3c61288e2551c7c88",
+      "date": "2026-09-15T19:01:38.575Z"
+    },
+    "selected": {
+      "title": "Ina Mi Chest",
+      "sha256": "e1b89552591289bea0a3d72ca9a1e2860abe6f2f375c82e3c61288e2551c7c88",
+      "date": "2026-09-15T19:01:52.267Z"
+    },
+    "reason": "Corrected title explicitly selected by James for identical sealed audio."
+  }
+]

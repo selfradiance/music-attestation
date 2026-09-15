@@ -1087,6 +1087,171 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-063",
+      "title": "Because You Are",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "b1a56bce32a49ee38ff75cb591c53f786a8efa28f725b266cb32a265740d288d",
+      "sealed_date": "2026-09-08T01:42:53.943Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-064",
+      "title": "Old Soul",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "32ac6a9f9f56148e8b87f39cdded4b8c425381905dc9e3bf6c6549b908765d6d",
+      "sealed_date": "2026-09-15T18:59:57.714Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-065",
+      "title": "Small Fire",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "94f858fcd0caff200b71d25dddfd57b0496c48dfb4c41fc2e0c10c7db4721353",
+      "sealed_date": "2026-09-15T19:00:13.971Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-066",
+      "title": "Sweet Jah",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "ac18cb1a501aaffcd96f4bb3c535dc27ee3c13a24f4f5270a6b92b244cd756b7",
+      "sealed_date": "2026-09-15T19:00:30.686Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-067",
+      "title": "Ital In Mi Step",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "74ac670e86e59bddf604ee0003e3bedb39bd2042da3bd1b7df3d8db771bddcec",
+      "sealed_date": "2026-09-15T19:00:48.952Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-068",
+      "title": "Likkle Hands",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "7357845a96199ac4504340986784cca24428571fba7c58ab4d8e26c7e154bd42",
+      "sealed_date": "2026-09-15T19:01:05.623Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-069",
+      "title": "No Worry",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "15bca5620c7d3c726454a06d065d864dbc204412340a7832112a7dd31515b68c",
+      "sealed_date": "2026-09-15T19:01:23.980Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-070",
+      "title": "Ina Mi Chest",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "e1b89552591289bea0a3d72ca9a1e2860abe6f2f375c82e3c61288e2551c7c88",
+      "sealed_date": "2026-09-15T19:01:52.267Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-071",
+      "title": "One Step",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "768cda9a1f024b93a43b5c188a782e18e64d6d05afb36f10c90809572e3d65ac",
+      "sealed_date": "2026-09-15T19:02:08.994Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-072",
+      "title": "Time Pass",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "5dc9f7a4e328a0e6769cc2548feb6be1f31dbc033569b9c246cafdfd9b6352ee",
+      "sealed_date": "2026-09-15T19:02:23.156Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-073",
+      "title": "Fear Not",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "0fa86cfbed22e6b487673202d3855f4ebb214b47668eab04d1e505453bedade2",
+      "sealed_date": "2026-09-15T19:02:37.826Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }
