@@ -39,7 +39,9 @@ The public manifest is committed at `manifest/manifest.json`. Each entry contain
 - `publicKeyId`: id of the public key used for verification
 - `date`: ISO date when the entry was sealed
 
-The static GitHub Pages page at `index.html` fetches `manifest/manifest.json` in the browser and renders it as a table.
+The static GitHub Pages page at `index.html` presents the readable Zion Skank catalog from `catalog.json`, newest first. Search works across title, ID, and genre. Each song keeps its hash, signature, public-key ID, and recorded seal date inside an expandable proof section; the raw catalog, signed manifest, public key, exclusions, and corrected-seal selections remain directly accessible.
+
+`catalog-selections.json` preserves explicitly authorized corrections between two signed manifest records for identical audio. It does not alter or delete either raw seal. The current record selects the complete title `Ina Mi Chest` for the catalog while retaining both original manifest entries.
 
 ## Verify A File
 

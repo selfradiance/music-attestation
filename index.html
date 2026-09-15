@@ -3,306 +3,61 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Music Attestation Manifest</title>
+    <meta name="description" content="The public cryptographic seal catalog for original music by Zion Skank.">
+    <title>Zion Skank — Sealed Music Catalog</title>
     <style>
-      :root {
-        color-scheme: light;
-        --ink: #1d252c;
-        --muted: #5c6670;
-        --paper: #f8f7f3;
-        --panel: #ffffff;
-        --line: #d8d2c8;
-        --accent: #b63f35;
-        --accent-dark: #7f2823;
-        --code: #eef1f3;
-      }
-
-      * {
-        box-sizing: border-box;
-      }
-
-      body {
-        margin: 0;
-        background: var(--paper);
-        color: var(--ink);
-        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        line-height: 1.55;
-      }
-
-      main {
-        max-width: 980px;
-        margin: 0 auto;
-        padding: 48px 20px 64px;
-      }
-
-      header {
-        display: grid;
-        grid-template-columns: auto 1fr;
-        gap: 24px;
-        align-items: center;
-        padding-bottom: 32px;
-        border-bottom: 1px solid var(--line);
-      }
-
-      .seal {
-        width: 92px;
-        height: 92px;
-        border-radius: 50%;
-        background:
-          radial-gradient(circle at 32% 28%, rgba(255, 255, 255, 0.38), transparent 18%),
-          radial-gradient(circle at 50% 52%, var(--accent), var(--accent-dark));
-        box-shadow: 0 8px 18px rgba(80, 37, 32, 0.22), inset 0 -7px 12px rgba(50, 16, 12, 0.24);
-        display: grid;
-        place-items: center;
-        color: #fff6ef;
-        font-family: ui-serif, Georgia, serif;
-        font-size: 34px;
-        font-weight: 700;
-      }
-
-      h1,
-      h2 {
-        line-height: 1.15;
-        margin: 0;
-      }
-
-      h1 {
-        font-size: clamp(2rem, 4vw, 3.6rem);
-        letter-spacing: 0;
-      }
-
-      h2 {
-        margin-top: 42px;
-        font-size: 1.35rem;
-      }
-
-      p {
-        margin: 12px 0 0;
-      }
-
-      .lede {
-        max-width: 680px;
-        color: var(--muted);
-        font-size: 1.08rem;
-      }
-
-      code,
-      pre {
-        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-      }
-
-      pre {
-        overflow-x: auto;
-        padding: 16px;
-        background: var(--code);
-        border: 1px solid var(--line);
-        border-radius: 8px;
-        font-size: 0.92rem;
-      }
-
-      .table-wrap {
-        overflow-x: auto;
-        margin-top: 16px;
-        background: var(--panel);
-        border: 1px solid var(--line);
-        border-radius: 8px;
-      }
-
-      table {
-        width: 100%;
-        border-collapse: collapse;
-        min-width: 760px;
-      }
-
-      th,
-      td {
-        padding: 12px 14px;
-        text-align: left;
-        border-bottom: 1px solid var(--line);
-        vertical-align: top;
-      }
-
-      th {
-        color: var(--muted);
-        font-size: 0.78rem;
-        letter-spacing: 0;
-        text-transform: uppercase;
-        background: #fbfaf7;
-      }
-
-      tr:last-child td {
-        border-bottom: 0;
-      }
-
-      td.hash,
-      td.signature {
-        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-        font-size: 0.86rem;
-        word-break: break-all;
-      }
-
-      .status {
-        margin-top: 16px;
-        padding: 14px 16px;
-        border: 1px solid var(--line);
-        border-radius: 8px;
-        background: var(--panel);
-        color: var(--muted);
-      }
-
-      footer {
-        margin-top: 48px;
-        padding-top: 22px;
-        border-top: 1px solid var(--line);
-        color: var(--muted);
-        font-size: 0.94rem;
-      }
-
-      @media (max-width: 640px) {
-        main {
-          padding-top: 28px;
-        }
-
-        header {
-          grid-template-columns: 1fr;
-        }
-
-        .seal {
-          width: 76px;
-          height: 76px;
-          font-size: 28px;
-        }
-      }
+      :root { color-scheme: dark; --ink:#fff8e8; --muted:#cfc8b7; --paper:#10130f; --panel:#191d17; --panel-2:#21271e; --line:#3d4638; --green:#6ca34c; --gold:#efc44f; --red:#c94d3f; --focus:#fff2a8; }
+      * { box-sizing: border-box; }
+      html, body { overflow-x: hidden; }
+      body { margin:0; min-width:0; background:radial-gradient(circle at 80% 0%,rgba(108,163,76,.16),transparent 34rem),linear-gradient(180deg,#171a14 0,var(--paper) 30rem); color:var(--ink); font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; line-height:1.55; }
+      a { color:var(--gold); text-underline-offset:.2em; } a:hover { color:#ffe18a; } :focus-visible { outline:3px solid var(--focus); outline-offset:3px; } [hidden] { display:none!important; }
+      main { width:min(100% - 32px,1040px); margin:0 auto; padding:44px 0 72px; }
+      header { padding:28px 0 38px; border-bottom:1px solid var(--line); }
+      .eyebrow { margin:0 0 8px; color:var(--gold); font-size:.8rem; font-weight:800; letter-spacing:.13em; text-transform:uppercase; }
+      h1 { max-width:760px; margin:0; font-family:Georgia,ui-serif,serif; font-size:clamp(2.5rem,8vw,5.8rem); line-height:.98; letter-spacing:-.035em; } h1 span { color:var(--green); }
+      .lede { max-width:700px; margin:22px 0 0; color:var(--muted); font-size:clamp(1rem,2vw,1.2rem); }
+      .stripe { display:flex; width:180px; height:6px; margin-top:28px; overflow:hidden; border-radius:99px; } .stripe i { flex:1; } .stripe i:nth-child(1){background:var(--green)} .stripe i:nth-child(2){background:var(--gold)} .stripe i:nth-child(3){background:var(--red)}
+      .explainer { display:grid; grid-template-columns:1fr auto; gap:24px; align-items:start; padding:28px 0; } .explainer h2,.catalog-heading h2 { margin:0; font-size:1.3rem; } .explainer p { max-width:690px; margin:8px 0 0; color:var(--muted); }
+      .seal-mark { display:grid; width:72px; height:72px; place-items:center; border:2px solid var(--gold); border-radius:50%; color:var(--gold); font-family:Georgia,serif; font-size:1.5rem; font-weight:700; box-shadow:0 0 0 6px rgba(239,196,79,.08); }
+      .catalog-tools { position:sticky; top:0; z-index:2; padding:20px 0 16px; background:linear-gradient(var(--paper) 75%,transparent); }
+      label { display:block; margin-bottom:7px; font-weight:750; } input[type="search"] { width:100%; min-height:50px; border:1px solid #596451; border-radius:10px; background:#0c0f0b; color:var(--ink); padding:12px 15px; font:inherit; } input[type="search"]::placeholder { color:#989f91; }
+      .result-count { margin:9px 0 0; color:var(--muted); font-size:.92rem; } .status { margin:18px 0; padding:16px; border:1px solid var(--line); border-radius:10px; background:var(--panel); color:var(--muted); } .status.error { border-color:var(--red); color:#ffd4ce; }
+      .track-list { display:grid; gap:12px; margin-top:18px; } .track { min-width:0; padding:18px; border:1px solid var(--line); border-radius:14px; background:linear-gradient(145deg,var(--panel-2),var(--panel)); box-shadow:0 10px 28px rgba(0,0,0,.16); }
+      .track-head { display:flex; gap:14px; justify-content:space-between; align-items:start; } .track h3 { min-width:0; margin:0; overflow-wrap:anywhere; font-family:Georgia,ui-serif,serif; font-size:clamp(1.25rem,4vw,1.65rem); line-height:1.12; } .track-id { flex:0 0 auto; border:1px solid var(--line); border-radius:999px; padding:3px 9px; color:var(--gold); font:700 .78rem ui-monospace,monospace; }
+      .meta { display:flex; flex-wrap:wrap; gap:8px 16px; margin:12px 0 0; color:var(--muted); font-size:.9rem; } .verified { color:#a9d88a; font-weight:700; }
+      details { min-width:0; margin-top:15px; border-top:1px solid var(--line); padding-top:12px; } summary { width:fit-content; cursor:pointer; color:var(--gold); font-weight:750; }
+      dl { display:grid; grid-template-columns:130px minmax(0,1fr); gap:8px 14px; margin:14px 0 0; } dt { color:var(--muted); font-weight:700; } dd { min-width:0; margin:0; overflow-wrap:anywhere; word-break:break-word; } .proof-value { font:.78rem/1.5 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; } .missing { color:#ffb4a9; }
+      .raw { margin-top:40px; padding:22px; border:1px solid var(--line); border-radius:14px; background:var(--panel); } .raw h2 { margin:0; font-size:1.15rem; } .raw p { margin:8px 0 0; color:var(--muted); } .raw-links { display:flex; flex-wrap:wrap; gap:10px 18px; margin-top:14px; } .key-data { margin-top:12px; overflow-wrap:anywhere; white-space:pre-wrap; word-break:break-word; font:.78rem/1.5 ui-monospace,monospace; color:var(--muted); }
+      footer { margin-top:42px; padding-top:22px; border-top:1px solid var(--line); color:var(--muted); font-size:.9rem; }
+      @media (max-width:560px) { main { width:min(100% - 24px,1040px); padding-top:20px; } .explainer { grid-template-columns:1fr; } .seal-mark { order:-1; width:58px; height:58px; } dl { grid-template-columns:1fr; gap:2px; } dd+dt { margin-top:8px; } }
     </style>
   </head>
   <body>
     <main>
       <header>
-        <div class="seal" aria-hidden="true">M</div>
-        <div>
-          <h1>Music Attestation Manifest</h1>
-          <p class="lede">This repo is a public wax seal for audio files. The audio stays wherever the artist keeps it. The manifest records a file hash, a signature, and a date so anyone can later check whether a copy matches the sealed version.</p>
-        </div>
+        <p class="eyebrow">Original music by Zion Skank</p>
+        <h1>Sealed music, <span>open proof.</span></h1>
+        <p class="lede">A public catalog of Zion Skank recordings that have been cryptographically sealed. Browse the music first; open any track to inspect its proof.</p>
+        <div class="stripe" aria-hidden="true"><i></i><i></i><i></i></div>
       </header>
-
-      <section aria-labelledby="how-it-works">
-        <h2 id="how-it-works">What This Proves</h2>
-        <p>Each seal is made from the SHA-256 hash of an audio file. That hash is signed with a private Ed25519 key. The private key is not published. The public key below lets anyone verify that a manifest entry was signed by the matching private key and that the file they have produces the same hash.</p>
+      <section class="explainer" aria-labelledby="meaning-heading">
+        <div><h2 id="meaning-heading">What the seal means</h2><p>A seal signs the exact bytes of an audio file. If a copy produces the same SHA-256 hash and its signature verifies with the public key, it matches the sealed recording. This does not independently establish authorship, copyright ownership, audio quality, or a trusted creation time.</p></div>
+        <div class="seal-mark" aria-hidden="true">ZS</div>
       </section>
-
-      <section aria-labelledby="public-key">
-        <h2 id="public-key">Public Key</h2>
-        <p>Verifiers use this key with <code>verify.mjs</code>. It is safe to share.</p>
-        <pre id="public-key-json">Loading public key...</pre>
+      <section aria-labelledby="catalog-heading">
+        <div class="catalog-heading"><h2 id="catalog-heading">Music catalog</h2></div>
+        <div class="catalog-tools"><label for="track-search">Search songs</label><input id="track-search" type="search" placeholder="Search by title, ID, or genre" autocomplete="off" disabled><p id="result-count" class="result-count" aria-live="polite"></p></div>
+        <div id="catalog-status" class="status" role="status">Loading sealed tracks…</div>
+        <div id="track-list" class="track-list"></div>
+        <div id="no-results" class="status" hidden>No sealed tracks match that search.</div>
       </section>
-
-      <section aria-labelledby="manifest">
-        <h2 id="manifest">Manifest</h2>
-        <div id="manifest-status" class="status">Loading manifest...</div>
-        <div class="table-wrap" id="manifest-table-wrap" hidden>
-          <table>
-            <thead>
-              <tr>
-                <th>Title</th>
-                <th>Filename</th>
-                <th>SHA-256</th>
-                <th>Signature</th>
-                <th>Public Key ID</th>
-                <th>Date</th>
-              </tr>
-            </thead>
-            <tbody id="manifest-rows"></tbody>
-          </table>
-        </div>
+      <section class="raw" aria-labelledby="raw-heading">
+        <h2 id="raw-heading">Raw verification files</h2><p>For independent checking, the complete machine-readable evidence remains public.</p>
+        <nav class="raw-links" aria-label="Raw verification files"><a href="catalog.json">Catalog JSON</a><a href="manifest/manifest.json">Signed manifest JSON</a><a href="manifest/public-key.json">Public key JSON</a><a href="catalog-selections.json">Corrected seal selections</a></nav>
+        <details id="public-key-details"><summary>View public key</summary><pre id="public-key" class="key-data">Loading public key…</pre></details>
       </section>
-
-      <section aria-labelledby="verify">
-        <h2 id="verify">Verify A File</h2>
-        <p>Clone this repo, put the audio file anywhere on your machine, then run:</p>
-        <pre>node verify.mjs /full/path/to/audio-file.wav</pre>
-        <p>A matching file prints <code>PASS</code> and the sealed date. A changed file, missing manifest entry, or invalid signature prints <code>FAIL</code>.</p>
-      </section>
-
-      <footer>
-        The manifest attests to file bytes, not authorship law, copyright ownership, or audio quality. If one byte changes, the hash changes.
-      </footer>
+      <footer>Cryptographic seals make later byte-for-byte comparison possible. The audio itself is not stored on this site.</footer>
     </main>
-
-    <script>
-      const publicKeyElement = document.getElementById('public-key-json');
-      const statusElement = document.getElementById('manifest-status');
-      const tableWrap = document.getElementById('manifest-table-wrap');
-      const rowsElement = document.getElementById('manifest-rows');
-
-      function cell(text, className) {
-        const td = document.createElement('td');
-        td.textContent = text || '';
-
-        if (className) {
-          td.className = className;
-        }
-
-        return td;
-      }
-
-      async function loadJson(path) {
-        const response = await fetch(path, { cache: 'no-store' });
-
-        if (!response.ok) {
-          throw new Error(`Could not load ${path}: ${response.status}`);
-        }
-
-        return response.json();
-      }
-
-      async function renderPublicKey() {
-        try {
-          const publicKey = await loadJson('manifest/public-key.json');
-          publicKeyElement.textContent = JSON.stringify(publicKey, null, 2);
-        } catch (error) {
-          publicKeyElement.textContent = error.message;
-        }
-      }
-
-      async function renderManifest() {
-        try {
-          const manifest = await loadJson('manifest/manifest.json');
-
-          if (!Array.isArray(manifest)) {
-            throw new Error('manifest/manifest.json is not a JSON array.');
-          }
-
-          if (manifest.length === 0) {
-            statusElement.textContent = 'No tracks are sealed yet.';
-            tableWrap.hidden = true;
-            return;
-          }
-
-          rowsElement.replaceChildren();
-
-          for (const entry of manifest) {
-            const tr = document.createElement('tr');
-            tr.append(
-              cell(entry.title),
-              cell(entry.filename),
-              cell(entry.sha256, 'hash'),
-              cell(entry.signature, 'signature'),
-              cell(entry.publicKeyId),
-              cell(entry.date),
-            );
-            rowsElement.appendChild(tr);
-          }
-
-          statusElement.hidden = true;
-          tableWrap.hidden = false;
-        } catch (error) {
-          statusElement.textContent = error.message;
-          tableWrap.hidden = true;
-        }
-      }
-
-      renderPublicKey();
-      renderManifest();
-    </script>
+    <script type="module" src="site.mjs"></script>
   </body>
 </html>
