@@ -1252,6 +1252,141 @@
       "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
       "license": "All rights reserved",
       "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-074",
+      "title": "Rasta Soul",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "87fa10cd06876e2e4775aba806fc056bcb42e6f0f90d311b949b080d775b05c5",
+      "sealed_date": "2026-09-18T20:06:29.608Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-075",
+      "title": "Love One, Love All (Rasta Soul Album Version)",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "0928aa6510e20159049f2f871e0dec5ab7eb207ad047b8f1f418e4ff84200702",
+      "sealed_date": "2026-09-18T20:07:51.386Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-076",
+      "title": "No Commotion",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "9174c0b83853de0a81141b5e5c6a3344eae0ef74df2406ec5309c662e053afb5",
+      "sealed_date": "2026-09-18T20:08:08.583Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-077",
+      "title": "Leave A Little Light",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "3119cc0bd5608cb22921058cd1f7007dbe11637853529db7a94501e4abe857c9",
+      "sealed_date": "2026-09-18T20:08:31.321Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-078",
+      "title": "Lion Heart",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "b56d3287f3a23c03ad857cb839521b0e648dd53521cd7065a29770e2c7dc5be9",
+      "sealed_date": "2026-09-18T20:08:44.377Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-079",
+      "title": "Humble Is Jah Way",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "7d5619b45c073fc06357aedc4fafa2d735115fafacc7c3f031e711301522b31e",
+      "sealed_date": "2026-09-18T20:08:57.138Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-080",
+      "title": "Zion Drumbeat",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "7622f8ce0e3bd62e05520b98ce1c1a274f4d562ea857b9952bec41be0398471f",
+      "sealed_date": "2026-09-18T20:09:08.621Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-081",
+      "title": "Me No Less",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "e1deb33b82d23bab8f75935784cc174be66c6ba8e4d2bd31bf82ebd12d849328",
+      "sealed_date": "2026-09-18T20:09:18.737Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
+    },
+    {
+      "id": "zs-082",
+      "title": "Presence",
+      "genre": [
+        "reggae"
+      ],
+      "release_date": "",
+      "duration_seconds": 0,
+      "youtube_url": "",
+      "sha256": "b4813aac6e62d90aba940815fff64ec1f56d207d24469d66ecfbe434df45eafc",
+      "sealed_date": "2026-09-18T20:09:29.517Z",
+      "attestation": "https://selfradiance.github.io/music-attestation/manifest/manifest.json",
+      "license": "All rights reserved",
+      "licensing_contact": "https://github.com/selfradiance"
     }
   ]
 }

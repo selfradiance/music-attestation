@@ -638,5 +638,77 @@
     "signature": "O/8dbtQv7xSOjAMSAbgDEGCXGMe/4SThkkf0kagsIb8UDKAVfcdlrrf+hC/94kyY7EsQEFzuFLiI0lBuYJGVAA==",
     "publicKeyId": "ed25519-faa143f9c12cd8a6",
     "date": "2026-09-15T19:02:37.826Z"
+  },
+  {
+    "title": "Rasta Soul",
+    "filename": "Rasta Soul.wav",
+    "sha256": "87fa10cd06876e2e4775aba806fc056bcb42e6f0f90d311b949b080d775b05c5",
+    "signature": "FwpmXx2ohVxC4pCaf9G2v0eaLr3hlbtWBqIULhjr4iVH+X7Z7JafBWuRYmyk62cQjiEPLW9XqNPg/A2DnyqfCQ==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-18T20:06:29.608Z"
+  },
+  {
+    "title": "Love One, Love All (Rasta Soul Album Version)",
+    "filename": "Love One, Love All.wav",
+    "sha256": "0928aa6510e20159049f2f871e0dec5ab7eb207ad047b8f1f418e4ff84200702",
+    "signature": "Q5CLqTA8Xub6cAoOidt12t5w/2DrBeLVVHiq2BbwnF0wPzWRc/Ohy44ovmaX0nlUoVoTb4Kv6+5VUS9fUCy0Dw==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-18T20:07:51.386Z"
+  },
+  {
+    "title": "No Commotion",
+    "filename": "No Commotion.wav",
+    "sha256": "9174c0b83853de0a81141b5e5c6a3344eae0ef74df2406ec5309c662e053afb5",
+    "signature": "18P0gt+YFL7YkjebXSbwZLg+wm+g6jY94xOXvcfV+kSK+B6dC3gxPWMTw4Wziyl3dqEEcOUKBMDoMXzv3LyjAw==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-18T20:08:08.583Z"
+  },
+  {
+    "title": "Leave A Little Light",
+    "filename": "Leave A Little Light.wav",
+    "sha256": "3119cc0bd5608cb22921058cd1f7007dbe11637853529db7a94501e4abe857c9",
+    "signature": "ZuhJGkFsGaybWxpY31gf0KaBrjNqiEREHJDpLCByxdrxrT2NVakNylmDaPfQ3/UPhEH/xeZKDwIbwT7kd6nDDQ==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-18T20:08:31.321Z"
+  },
+  {
+    "title": "Lion Heart",
+    "filename": "Lion Heart.wav",
+    "sha256": "b56d3287f3a23c03ad857cb839521b0e648dd53521cd7065a29770e2c7dc5be9",
+    "signature": "bBm8MwVW103Ei70Cc7V3qrWL8VvTxq7wD5fK/RSYhCICSXQoz9mU4yNkWncTMNA2rFmZNGIuci7dogPCtSAzDA==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-18T20:08:44.377Z"
+  },
+  {
+    "title": "Humble Is Jah Way",
+    "filename": "Humble Is Jah Way.wav",
+    "sha256": "7d5619b45c073fc06357aedc4fafa2d735115fafacc7c3f031e711301522b31e",
+    "signature": "KlQo74xwZgNWhawGMrhq1QMWAqVeXW9Or1RTVGgNuajo/++p3tcZC+D0Lczcp7lx89uliSkAuNinD8wE3WXqAQ==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-18T20:08:57.138Z"
+  },
+  {
+    "title": "Zion Drumbeat",
+    "filename": "Zion Drumbeat.wav",
+    "sha256": "7622f8ce0e3bd62e05520b98ce1c1a274f4d562ea857b9952bec41be0398471f",
+    "signature": "Mf5SaT/dFNlZZCZ3s7aRR/CuGIqgKNGeQDxolSv2PhsGMGqdB0zriEtLF1CW2iQuZP88x11DUX+XulkVnwlWDA==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-18T20:09:08.621Z"
+  },
+  {
+    "title": "Me No Less",
+    "filename": "Me No Less.wav",
+    "sha256": "e1deb33b82d23bab8f75935784cc174be66c6ba8e4d2bd31bf82ebd12d849328",
+    "signature": "xTK5uYzN7aIq69KlxZ7qNByvQJpnCcK4cIysJqVz9I/oEWDHsOIuFuKVds44HUX08FCOeCRWZ2wDD4m1Juk5DQ==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-18T20:09:18.737Z"
+  },
+  {
+    "title": "Presence",
+    "filename": "Presence.wav",
+    "sha256": "b4813aac6e62d90aba940815fff64ec1f56d207d24469d66ecfbe434df45eafc",
+    "signature": "HStFchiFMmd/+eUJ1U1FzMXAPUBhPTtrx9RfuhRieM5Zz7/PjXxL3oQevmYuBDPmMDosE/ZYRNcndP5iBmiJBA==",
+    "publicKeyId": "ed25519-faa143f9c12cd8a6",
+    "date": "2026-09-18T20:09:29.517Z"
   }
 ]
